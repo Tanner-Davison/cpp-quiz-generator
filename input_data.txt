@@ -1,0 +1,50 @@
+Question 1:  What data type would you use to store a person's age that will never be negative or have decimal points?
+unsigned int
+
+
+Question 2: Which data type is best suited for storing a single character value like 'A' or '$'?
+char
+
+
+Question 3: If you need to store whether a light switch is on or off, what would be the most memory-efficient data type?
+bool
+
+
+Question 4: If you need to store a very large whole number that could exceed 4 billion, which data type would you use?
+unsigned long long
+
+
+Question 5: For storing the exact price of an item (like $19.99) where precision is crucial and rounding errors must be avoided, what data type would be most appropriate?
+double
+
+
+Question 6: When working with text that needs to change during program execution, which is more memory efficient: char array or string?
+string
+
+
+Question 7: What keyword is used to determine the size in bytes of a data type or variable?
+sizeof
+
+
+Question 8: What happens when you increment an unsigned int that's already at its maximum value?
+wraps to 0
+
+
+Question 9: Which data type consumes more memory: float or double?
+double
+
+
+Question 10: What is the default value of a global integer variable if not explicitly initialized?
+0
+
+
+Question 11: What operator is used to allocate memory dynamically?
+new
+
+
+Question 12: What happens if a class doesn't explicitly define a constructor?
+default constructor
+
+
+
+
