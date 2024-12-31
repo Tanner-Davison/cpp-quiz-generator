@@ -87,12 +87,13 @@ Final Score: 2 of 3
 - **Adjusting Scoring**: Modify the logic in `main.cpp` to implement different scoring systems if desired.
 
 ## Requirements
-- A C++ compiler (e.g., GCC or MSVC).
 - A terminal or command prompt to execute the program.
+- C++ compiler (your choice ex: GCC || MSVC)
 
 ## Limitations
 - The program assumes that the input file is correctly formatted (alternating lines of questions and answers).
 - It does not handle cases where the input file is missing or contains improperly formatted data gracefully beyond the basic checks.
+- you may add 2 returns between q/a groups 
 
 ## License
 This project is licensed under the MIT License.
