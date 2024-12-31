@@ -14,8 +14,6 @@ int main() {
     cout << "Error no file found" << endl;
     return 1;
   }
-
-  int points = 100;
   vector<pair<string, string>> qa;
   string current_line, question, answer;
   int line_count = 0, score = 0, possible;
